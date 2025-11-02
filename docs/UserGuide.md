@@ -471,13 +471,6 @@ Example:
 
 ## Feature - Clearing Data
 
-### Changing the colour theme : `theme`
-
-Changes the colour theme of the application.
-
-Format: `theme THEME_NAME`
-* Available themes: `light`, `dark`, `blue`, `pink`
-
 ### Clearing all entries : `clear`
 
 Clears all entries from the app.
